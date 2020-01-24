@@ -2,5 +2,5 @@
 
 This is our page
 
-[Google](https://www.google.com)
+[See our stata code](https://github.com/grazulis/nwc-chc-demo)
 
